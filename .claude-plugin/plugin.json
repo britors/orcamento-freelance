@@ -1,0 +1,13 @@
+{
+  "name": "orcamento-freelance",
+  "displayName": "Orçamento freelance",
+  "version": "1.0.0",
+  "description": "Orça projetos de software freelance com preço fechado: escopo decomposto, horas em três pontos, overhead, contingência por risco, impostos brasileiros e margem, com planilha .xlsx interna e proposta comercial.",
+  "author": {
+    "name": "Rodrigo Brito"
+  },
+  "homepage": "https://github.com/britors/orcamento-freelance",
+  "repository": "https://github.com/britors/orcamento-freelance",
+  "license": "GPL-3.0-only",
+  "keywords": ["orçamento", "freelance", "proposta", "impostos", "simples-nacional"]
+}
