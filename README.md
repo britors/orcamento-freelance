@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".claude-plugin/icon.svg" alt="Ícone do orcamento-freelance: um recibo com R$" width="128">
+</p>
+
 # orcamento-freelance
 
 [Português](#português) · [English](#english)
@@ -65,7 +69,15 @@ skills/orcamento-software/references/proposta.md        modelo da proposta
 
 Taxes cover MEI, Simples Nacional (Annex III/V, Fator R) and Lucro Presumido, with 2026 figures. Skill content is in Portuguese.
 
-Install with `/plugin install orcamento-freelance --marketplace britors/orcamento-freelance`.
+Install:
+
+```
+/plugin install orcamento-freelance --marketplace britors/orcamento-freelance
+```
+
+On older versions, run `/plugin marketplace add britors/orcamento-freelance` and then `/plugin install orcamento-freelance@orcamento-freelance`.
+
+Usage: paste a client brief and ask how much to charge. On first use, Claude asks for your hourly cost and tax regime; to skip that, fill in `skills/orcamento-software/references/parametros.md`.
 
 ## Licença / License
 
